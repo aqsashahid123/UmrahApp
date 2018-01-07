@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:title="Dashboard"
+            android:id="@+id/howTo"
+
+            />
+
+
+        <!--<item-->
+        <!--android:title="Reports"-->
+        <!--android:id="@+id/showReports"-->
+        <!--android:icon="@drawable/icon_reports"-->
+
+
+        <!--/>-->
+        <item
+            android:title="Graphs"
+            android:id="@+id/placesToVisit"
+
+
+            />
+
+
+
+            <item
+                android:title="add sale"
+                android:id="@+id/gallery"
+
+                />
+
+
+
+        </menu>
+
+
+
+
+
